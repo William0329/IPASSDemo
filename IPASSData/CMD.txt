@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=localhost;Database=WinDB;User Id=Sa;Password=P@ssword;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context IPASSDBContext -Force

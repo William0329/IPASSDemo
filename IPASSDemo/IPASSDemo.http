@@ -1,0 +1,6 @@
+@IPASSDemo_HostAddress = http://localhost:5014
+
+GET {{IPASSDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
